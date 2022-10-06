@@ -26,16 +26,16 @@ This repository is useful since we as developers want to code fast. I have all m
 
 ### For Windows Users
 
-To get started, copy the .vimrc file to your username's default folder (i.e. C:$\Documents and Settings$\(user name)$\_vimrc). username is without the parenthesis.
+To get started, copy the .vimrc file to your username's default folder (i.e. `C:\Documents and Settings\(user name)\_vimrc`). username is without the parenthesis.
 
 ### For Mac Users
 
-To get started, copy the .vimrc file to: /usr/share/vim/vimrc
+To get started, copy the .vimrc file to: `/usr/share/vim/vimrc`
 Make sure the dot is removed from the filename!
 
 ### For Linux Users
 
-To get started, copy the .vimrc file to your username account folder (i.e. $/home$/(user name)). User name is without the parenthesis.
+To get started, copy the .vimrc file to your username account folder (i.e. `/home/(user name`)). User name is without the parenthesis.
 
 
 ## Help
