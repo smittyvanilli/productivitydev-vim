@@ -2,4 +2,6 @@
 
 ## Vundle
 
-Type :\"PluginList\" to list all plugins.
+Type the following to list all plugins:
+
+:PluginList
