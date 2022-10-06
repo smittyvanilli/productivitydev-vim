@@ -42,6 +42,13 @@ To get started, copy the .vimrc file to your username account folder (i.e. $/hom
 
 For help, and before you ask, I would search Google for any answers it may provide. This is how I learned many things myself. Otherwise, you could submit an issue and I will get back with an answer. Please be aware, again, I do not know everything! However, I will support this repo in the best way I know.
 
+### Discord
+
+Another way you could get help is on my new discord server. Please be aware I not be on at all times. However, I will get back to you and answer your request as best as I can. Please read the rules first before chatting.
+
+https://discord.gg/H7Jy2n9wi
+
+
 ## Mainters and Contributors
 
 So far, there are no contributors to this project. I am the current maintainer of this project (i.e. Stephen Milley)
