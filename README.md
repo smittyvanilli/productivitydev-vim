@@ -44,8 +44,4 @@ For help, and before you ask, I would search Google for any answers it may provi
 
 ## Mainters and Contributors
 
-So far, there are no contributors to this project. I am the current maintainer of this project (i.e. Stephen Milley).
-
-    Who maintains and contributes to the project
-
-
+So far, there are no contributors to this project. I am the current maintainer of this project (i.e. Stephen Milley)
